@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sameem-portfolio/static/css/main.4ea9e70b.css",
+    "main.js": "/sameem-portfolio/static/js/main.3b6b95cf.js",
+    "static/media/cardblog.png": "/sameem-portfolio/static/media/cardblog.0451c4ead631b2751a9e.png",
+    "static/media/recipe.png": "/sameem-portfolio/static/media/recipe.c810301124078a1bb841.png",
+    "static/media/heroImage.png": "/sameem-portfolio/static/media/heroImage.8c7bc5fa279d4678be56.png",
+    "static/media/aboutImage.png": "/sameem-portfolio/static/media/aboutImage.99c678ba43ec61a6d1d8.png",
+    "static/media/blog.png": "/sameem-portfolio/static/media/blog.f7f0cc1614b893e501d6.png",
+    "static/media/expense.png": "/sameem-portfolio/static/media/expense.3cf0adbcda8019d87ae6.png",
+    "static/media/bulletin.png": "/sameem-portfolio/static/media/bulletin.1fb914b0c12f2ba6eb2d.png",
+    "static/media/react.png": "/sameem-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/sameem-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/sameem-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/sameem-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/sameem-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/sameem-portfolio/index.html",
+    "main.4ea9e70b.css.map": "/sameem-portfolio/static/css/main.4ea9e70b.css.map",
+    "main.3b6b95cf.js.map": "/sameem-portfolio/static/js/main.3b6b95cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea9e70b.css",
+    "static/js/main.3b6b95cf.js"
+  ]
+}
